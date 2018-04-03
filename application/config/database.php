@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'hcdev.ddns.net',
 	'username' => 'root',
-	'password' => '',
+	'password' => 'HC-Mysql2016',
 	'database' => 'facebook-sdk',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
